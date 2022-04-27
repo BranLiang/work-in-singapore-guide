@@ -3,14 +3,15 @@
 新加坡工作移民指南
 
 ### What is this guide for?
+
 帮助你决定是否去新加坡工作 (Help you to decide if you want to work in Singapore). 这里假设你可以通过你的雇主获得EP工作签证，但是并没有拿到PR永久居留签证。
 
-## 签证(Visa)
+## 签证(Pass)
 
 信息来源:
 * [新加坡人力资源官网](https://www.mom.gov.sg)
 
-### EP（Employment Pass）签证
+### EP（Employment Pass）
 
 这是你即将获得的签证类型，几个关键的[信息和数据](https://www.mom.gov.sg/passes-and-permits/employment-pass/key-facts):
 
@@ -18,7 +19,7 @@
 |------------|---|---|
 |  首次2年 | 允许 | 由雇主决定 |
 
-### DP（Dependant’s Pass）签证
+### DP（Dependant’s Pass）
 
 这个签证主要用于你的配偶和子女，可以和EP签证一起申请，并且和EP一样，签证需要雇主协助申请。签证的有效期最长两年，同时和EP的有效期进行了绑定。特殊情况之下，幼稚园也能协助幼儿申请DP签证。
 
@@ -37,6 +38,23 @@ source: https://www.myfirstskool.com/infant-and-childcare
 总结一下：作为外国居民，可以为幼儿申请学前教育培训，费用 约1200新币 (5700 RMB)/月
 
 ## 居住(Living)
+
+信息来源:
+* https://www.hdb.gov.sg
+
+### 租房
+
+以[2021年的统计数据](https://www.hdb.gov.sg/cs/infoweb/residential/renting-a-flat/renting-from-the-open-market/rental-statistics)为例，最主要的出租房源类型为 3～4 个房间的房源，其中 3 个房间的租房价格区间为 1800 ～ 2100 新币，4 个房间的租房价格区间为 2000～2600 新币，不同区域之间价格有所差异。
+
+下面列出了房屋的使用限制，以供参考
+
+| Flat Type         | Maximum Number of tenants Allowed in Each Flat^  | Maximum Number of Bedroom(s) Allowed | Maximum Number of Occupants* Allowed in Each Flat^ |
+|-------------------|:------------------------------------------------:|:------------------------------------:|:--------------------------------------------------:|
+| 3-room            |                         6                        |                   1                  |                          6                         |
+| 4-room and bigger |                         6                        |                   2                  |                          6                         |
+
+个人觉得，如果有通行人员一起的话，合租还是最划算的一个选择。
+
 
 ## 工作(Working)
 
