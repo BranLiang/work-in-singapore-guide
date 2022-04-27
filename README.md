@@ -28,7 +28,7 @@
 信息来源:
 * [新加坡教育局官网](https://www.moe.gov.sg)
 
-### 如果你的小孩需要上学前班（preschool，年龄3岁之前）
+### 学前班（preschool，年龄3岁之前）
 
 新加坡教育局官网有[两家合作](https://www.moe.gov.sg/preschool/overview)的学前班教育机构，分别是[PCF Sparkletots](https://www.pcf.org.sg/sparkletots/)和[My First Skool](https://www.myfirstskool.com/early-years-centre), 两家教育机构的收费是一致的，同时两家机构都接受外国人的小孩教育申请，因此下面就以来自[My First Skool](https://www.myfirstskool.com/early-years-centre)的作为参考。
 
@@ -53,9 +53,27 @@ source: https://www.myfirstskool.com/infant-and-childcare
 | 3-room            |                         6                        |                   1                  |                          6                         |
 | 4-room and bigger |                         6                        |                   2                  |                          6                         |
 
-个人觉得，如果有通行人员一起的话，合租还是最划算的一个选择。
+个人觉得，如果有同行人员一起的话，合租还是最划算的一个选择。
 
+### Q&A
+
+1. 除了房租之外，还有那些隐藏的费用？
+2. 3/4 rooms的公寓具体代表了什么？
 
 ## 工作(Working)
 
+信息来源:
+* [新加坡金融部](https://www.mof.gov.sg/)
+* [新加坡税务机构](https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/tax-residency-and-tax-rates/individual-income-tax-rates)
+
+### 个人所得税
+
+作为外国人，只要你在新加坡工作，那么你就得缴纳个人所得税。税收类型分为居民税（tax resident）和非居民税（tax non-resident）, 对于工作时长超过 183 天的员工来说，你需要参考的税率是居民税。正常来说，你需要缴纳的个人所得税比例应该在 7% 以内，对比中国有一定的优势。
+
+[税收速算参考表](https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/tax-residency-and-tax-rates/individual-income-tax-rates)
+
 ## 生活(Lifestyle)
+
+### Q&A
+
+1. 人均月消费情况如何？
