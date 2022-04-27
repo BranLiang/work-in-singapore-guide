@@ -42,7 +42,7 @@ source: https://www.myfirstskool.com/infant-and-childcare
 信息来源:
 * https://www.hdb.gov.sg
 
-### 租房
+### 租房(Housing)
 
 以[2021年的统计数据](https://www.hdb.gov.sg/cs/infoweb/residential/renting-a-flat/renting-from-the-open-market/rental-statistics)为例，最主要的出租房源类型为 3～4 个房间的房源，其中 3 个房间的租房价格区间为 1800 ～ 2100 新币，4 个房间的租房价格区间为 2000～2600 新币，不同区域之间价格有所差异。
 
@@ -59,6 +59,7 @@ source: https://www.myfirstskool.com/infant-and-childcare
 
 1. 除了房租之外，还有那些隐藏的费用？
 2. 3/4 rooms的公寓具体代表了什么？
+3. 哪个区域租房性价比较高？
 
 ## 工作(Working)
 
@@ -66,7 +67,7 @@ source: https://www.myfirstskool.com/infant-and-childcare
 * [新加坡金融部](https://www.mof.gov.sg/)
 * [新加坡税务机构](https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/tax-residency-and-tax-rates/individual-income-tax-rates)
 
-### 个人所得税
+### 个人所得税(Income Tax)
 
 作为外国人，只要你在新加坡工作，那么你就得缴纳个人所得税。税收类型分为居民税（tax resident）和非居民税（tax non-resident）, 对于工作时长超过 183 天的员工来说，你需要参考的税率是居民税。正常来说，你需要缴纳的个人所得税比例应该在 7% 以内，对比中国有一定的优势。
 
@@ -77,3 +78,7 @@ source: https://www.myfirstskool.com/infant-and-childcare
 ### Q&A
 
 1. 人均月消费情况如何？
+
+## 去新加坡之后的生活(Life in Singapore)
+
+这篇来自 [@winston](https://github.com/winston) 的[文章](https://github.com/rubysg/singapore)可以给你一个很清晰的概念，虽然文章可能略有过时，然仍然不失为一个很棒的参考。
