@@ -40,7 +40,7 @@ source: https://www.myfirstskool.com/infant-and-childcare
 ## 居住(Living)
 
 信息来源:
-* https://www.hdb.gov.sg
+* [建屋发展局](https://www.hdb.gov.sg)
 
 ### 租房(Housing)
 
@@ -72,6 +72,11 @@ source: https://www.myfirstskool.com/infant-and-childcare
 作为外国人，只要你在新加坡工作，那么你就得缴纳个人所得税。税收类型分为居民税（tax resident）和非居民税（tax non-resident）, 对于工作时长超过 183 天的员工来说，你需要参考的税率是居民税。正常来说，你需要缴纳的个人所得税比例应该在 7% 以内，对比中国有一定的优势。
 
 [税收速算参考表](https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/tax-residency-and-tax-rates/individual-income-tax-rates)
+
+### Q&A
+
+1. 住房公积金？
+2. 对于有小孩的家庭，有一定的减税优惠吗？
 
 ## 生活(Lifestyle)
 
