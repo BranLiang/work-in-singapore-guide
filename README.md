@@ -66,6 +66,7 @@ source: https://www.myfirstskool.com/infant-and-childcare
 信息来源:
 * [新加坡金融部](https://www.mof.gov.sg/)
 * [新加坡税务机构](https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/tax-residency-and-tax-rates/individual-income-tax-rates)
+* [新加坡公积金官网](https://www.cpf.gov.sg/member)
 
 ### 个人所得税(Income Tax)
 
@@ -73,10 +74,11 @@ source: https://www.myfirstskool.com/infant-and-childcare
 
 [税收速算参考表](https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/tax-residency-and-tax-rates/individual-income-tax-rates)
 
-### Q&A
+### 公积金(Central Provident Fund)
 
-1. 住房公积金？
-2. 对于有小孩的家庭，有一定的减税优惠吗？
+作为一个还不是PR的外国人，你的公积金缴纳不是必须的。
+
+
 
 ## 生活(Lifestyle)
 
