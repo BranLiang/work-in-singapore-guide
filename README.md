@@ -86,6 +86,15 @@ source: https://www.myfirstskool.com/infant-and-childcare
 
 1. 人均月消费情况如何？
 
+## Before you go
+
+### 入境
+
+信息来源:
+* [ICA](https://www.ica.gov.sg/enter-depart/at-our-checkpoints/for-travellers/CBNI)
+
+最多携带2万新币入境，多余这个数字需要填写额外的表格进行申报。
+
 ## 去新加坡之后的生活(Life in Singapore)
 
 这篇来自 [@winston](https://github.com/winston) 的[文章](https://github.com/rubysg/singapore)可以给你一个很清晰的概念，虽然文章可能略有过时，然仍然不失为一个很棒的参考。
